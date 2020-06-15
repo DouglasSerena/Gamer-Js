@@ -1,0 +1,25 @@
+{
+  "name": "gamer-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasSerena/Gamer-Js.git"
+  },
+  "author": "Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasSerena/Gamer-Js/issues"
+  },
+  "homepage": "https://github.com/DouglasSerena/Gamer-Js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
